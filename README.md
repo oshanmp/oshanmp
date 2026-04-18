@@ -22,10 +22,12 @@ Engineer specializing in high-stakes enterprise systems across **FinTech**, **Ma
 ### Technical Stack
 * **Core:** Java 21, Spring Boot 3, Microservices (AKS/Docker).
 * **AI & Automation:** Python, LangGraph, Multi-Agent Systems.
+* **Frontend:** React, Angular, TypeScript.
 * **Modern Workflow:** AI-Augmented Engineering via Claude Code.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshanmp&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&langs_count=5)
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshanmp&layout=compact&theme=transparent&hide_border=true&title_color=3483fa&text_color=c9d1d9&langs_count=5&icon_color=3483fa&hide=html,css,scss,makefile)
+-->
 ---
 
 ### Key Architectures

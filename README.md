@@ -13,37 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Senior Software Engineer | 10+ Years Experience
+# Technical Lead | 9+ Years Experience
 
-Senior Engineer with a decade of experience building mission-critical systems in **FinTech** and **CDP** domains. Currently specializing in **Java 21**, **Multi-tenant SaaS architectures**, and **AI Agent orchestration**.
-
----
-
-### 🛠️ Tech Stack & Expertise
-* **Languages:** Java 21 (Virtual Threads, Modern API), Python, TypeScript.
-* **Backend:** Spring Boot (Microservices), Multi-tenant Database Architecture.
-* **Frontend:** React, Vite, Angular.
-* **AI Orchestration:** AI Agent Development (Python), Claude Code, AI-Augmented SDLC.
+Engineer specializing in high-stakes enterprise systems across **FinTech**, **MarTech**, and **HealthTech**. Expert in bridging enterprise stability with high-velocity, AI-augmented orchestration.
 
 ---
 
-### 🚀 Active Projects
-* **Multi-tenant SaaS POS:** Architecting a high-concurrency Point of Sale system using Java 21 and Spring Boot, focusing on isolated tenant data and performance.
-* **9-Agent Marketing Workflow:** Building an autonomous marketing engine using Python and LLM agents to automate complex multi-step marketing funnels.
+### Technical Stack
+* **Core:** Java 21, Spring Boot 3, Microservices (AKS/Docker).
+* **AI & Automation:** Python, LangGraph, Multi-Agent Systems.
+* **Modern Workflow:** AI-Augmented Engineering via Claude Code.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshanmp&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&langs_count=5)
 
 ---
 
-### 💼 Professional Background
-> Most of my professional work resides in **private Azure DevOps and Corporate repositories**, where I’ve led the development of:
-* **FinTech Systems:** High-security payment processing and financial data management.
-* **CDP Platforms:** Scalable Customer Data Platforms for real-time data ingestion and segmentation.
-* **Enterprise SaaS:** Transitioning monolithic systems to modern, cloud-native microservices.
+### Key Architectures
+* **Multi-Agent AI Ecosystem:** Architected a 9-agent workflow (Python/LangGraph), compressing 3-week strategic processes into <24 hours.
+* **Multi-tenant SaaS:** High-concurrency POS system built on Java 21 and Spring Boot.
+* **Core Banking Systems:** Technical Lead for major commercial banking platforms, managing system migrations and production-critical reliability.
 
 ---
 
-### 🤖 Workflow Philosophy
-I leverage **AI-Augmented Engineering (Claude Code)** to accelerate delivery velocity while maintaining the rigorous standards required for enterprise-grade software. I believe in "Human-in-the-loop" AI orchestration to solve complex architectural challenges.
+### Professional Context
+> My production code resides primarily in private Azure and Corporate repositories. I focus on delivering scalable, secure, and maintainable enterprise solutions.
 
----
-
-📫 **Connect with me:** [Insert LinkedIn Link or Email]
+[**Detailed Experience on LinkedIn**](https://www.linkedin.com/in/oshanpitigala)

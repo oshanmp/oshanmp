@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Technical Lead | 9+ Years Experience
+# Technical Lead | 10+ Years Experience
 
 Engineer specializing in high-stakes enterprise systems across **FinTech**, **MarTech**, and **HealthTech**. Expert in bridging enterprise stability with high-velocity, AI-augmented orchestration.
 

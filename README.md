@@ -32,7 +32,7 @@ Engineer specializing in high-stakes enterprise systems across **FinTech**, **Ma
 
 ### Key Architectures
 * **Multi-Agent AI Ecosystem:** Architected a 9-agent workflow (Python/LangGraph), compressing 3-week strategic processes into <24 hours.
-* **Multi-tenant SaaS:** High-concurrency POS system built on Java 21 and Spring Boot.
+* **Multi-tenant SaaS:** High-concurrency POS system built on Java 25 and Spring Boot.
 * **Core Banking Systems:** Technical Lead for major commercial banking platforms, managing system migrations and production-critical reliability.
 
 ---

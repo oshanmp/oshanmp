@@ -20,9 +20,9 @@ Engineer specializing in high-stakes enterprise systems across **FinTech**, **Ma
 ---
 
 ### Technical Stack
-* **Core:** Java 21, Spring Boot 3, Microservices (AKS/Docker).
+* **Core:** Java 25, Spring Boot 3, Microservices (AKS/Docker).
 * **AI & Automation:** Python, LangGraph, Multi-Agent Systems.
-* **Frontend:** React, Angular, TypeScript.
+* **Frontend:** React, Angular, Astro, TypeScript.
 * **Modern Workflow:** AI-Augmented Engineering via Claude Code.
 
 <!--
